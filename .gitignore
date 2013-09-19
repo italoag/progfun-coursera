@@ -1,2 +1,6 @@
 *.class
+.cache
+.classpath
+.project
+.settings/
 target/
